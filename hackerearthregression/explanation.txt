@@ -1,0 +1,23 @@
+For the  test ,train dataset 
+
+step1:checking the infromatin about the date like shape of the data and statical information about the data
+
+step2:checking the categorical variable and numerical values
+
+step3:cleaning the data means removing the null values
+
+step4:for categorical value we use mode to fill the null vales,for numerical values we use either mean,median to fill all null values
+
+step5:now,checking the correlation between values to know that whether each any features are related to each other 
+
+
+step6:we use some data visulization techinques to  check how data is disturbuted
+
+step7:merging the test dataset to trainset and finally checking above steps
+
+
+step8:partioning data again to train and test
+
+step9:final step is to model the data by using diffenent algorthims such as randomforest,navie bayes 
+
+step10:applying hyperparamter turning for the choosen model and modelling the data to get better accuracy
