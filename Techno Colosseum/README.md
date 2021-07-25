@@ -1,12 +1,12 @@
 ## problem statement:
 # Building Machine learning model to predict loan Defaulters
 ## Requried libraries:
-.pandas
-.numpy 
-.matplotlib
-.plotly
-.seaborn
-## model buliding algorthims
-.Logistic regression
-.Random forest classifier
-.AdaBoost Classifier
+1)pandas
+2)numpy 
+3)matplotlib
+4)plotly
+5)seaborn
+## model buliding algorithms:
+1)Logistic regression
+2)Random forest classifier
+3)AdaBoost Classifier
